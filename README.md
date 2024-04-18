@@ -15,7 +15,8 @@ A. Creational Design Pattern:
 4. Builder
 5. Prototype
 
-B. Structural Design Patterns
+B. Structural Design Patterns:
+
 6. Adapter
 7. Composite
 8. Proxy
@@ -24,7 +25,8 @@ B. Structural Design Patterns
 11. Bridge
 12. Decorator
 
-C. Behavioural
+C. Behavioural:
+
 13. Template Method
 14. Mediator
 15. Chain of Responsibility
